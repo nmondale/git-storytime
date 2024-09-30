@@ -1,4 +1,4 @@
-# Chapter 3
+# tension
 
 Suki looked back, even more confident and still fingering the crumpled record. "george, i love your hair," she replied.
 

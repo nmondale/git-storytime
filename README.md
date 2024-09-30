@@ -1,6 +1,6 @@
 # Mysterious Clams
 
-- [Chapter 1](chapter1.md)
-- [Chapter 2](chapter2.md)
-- [Chapter 3](chapter3.md)
-- [Chapter 4](chapter4.md)
+- [Suki](chapter1.md)
+- [Love is sandwich](chapter2.md)
+- [tension](chapter3.md)
+- [the End](chapter4.md)

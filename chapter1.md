@@ -1,4 +1,4 @@
-# Chapter 1
+# Suki
 
 Suki Godfrey had always loved swampy macalester college with its unkempt, ugliest ugly dogs. It was a place where she felt confident.
 
