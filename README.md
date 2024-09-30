@@ -1,2 +1,6 @@
-# git-storytime
-class 09/30
+# Mysterious Clams
+
+- [Chapter 1](chapter1.md)
+- [Chapter 2](chapter2.md)
+- [Chapter 3](chapter3.md)
+- [Chapter 4](chapter4.md)
